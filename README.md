@@ -25,7 +25,7 @@ I'm Mohammadreza Amani, Computer Science student at AmirKabir university of Tech
 
 | title | skill level (from 100) | certificate |
 |-------|------------------------|-------------|
-| python | 79 | link | 
+| python | 79 | [Udemy](https://www.udemy.com/certificate/UC-f1d15d5e-c3fb-4d95-8c75-8cd27c557d87/) | 
 | django | 48 | link |
 | kivy | 68 | link |
 | java | 52 | link |
@@ -35,7 +35,7 @@ I'm Mohammadreza Amani, Computer Science student at AmirKabir university of Tech
 | CSS | 43 | link |
 | Bootstrap 5 | 61 | link |
 | react | 41 | link |
-| flask | 54 | link |
+| flask | 54 | [Udemy](https://www.udemy.com/certificate/UC-f1d15d5e-c3fb-4d95-8c75-8cd27c557d87/) |
 | c | 75 | link |
 | c++ | 75 | link |
 
